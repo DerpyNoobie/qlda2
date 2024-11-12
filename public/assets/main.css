@@ -76,8 +76,7 @@ td {
     margin: 10px 0;
     display: inline-flex;
     flex-wrap: wrap;
-    margin-left: 90%;
-    
+    row-gap: 10px;
 }
 
 .login a, .sign-up a {
@@ -122,6 +121,6 @@ td {
 }
 
 .search button:hover {
-    background-color: #45a049;
+    background-color: #5a75ff;
 }
 

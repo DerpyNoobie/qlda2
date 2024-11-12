@@ -40,10 +40,10 @@ $result = $conn->query($sql);
         <button type="submit">Tìm kiếm</button>
     </div>
     <div class="login">
-            <a href = "main/user/login.php"> Đăng nhập </a>
+            <a href = "main/login.php"> Đăng nhập </a>
         </div>
         <div class="sign-up">
-            <a href = "main/user/register.php"> Đăng ký </a> 
+            <a href = "main/register.php"> Đăng ký </a> 
         </div>
 </form>
 
@@ -66,7 +66,7 @@ $result = $conn->query($sql);
     </br>
 
     <div class="main">
-        <h2 style="text-align:center;"><i>Danh mục sản phẩm</i></h2>
+        <h2 style="text-align:center;"><i>Sản phẩm bán chạy</i></h2>
         <table>
 
             <tr>

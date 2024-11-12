@@ -49,7 +49,7 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <title>Đăng ký</title>
-    <link rel="stylesheet" href="public\assets\user.css">
+    <link rel="stylesheet" href="user.css">
 </head>
 <body>
     <h2>Đăng ký</h2>
